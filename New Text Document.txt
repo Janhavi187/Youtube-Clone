@@ -1,0 +1,29 @@
+ <div class="body-container">
+        <div class="sidebar">
+            <div class="sidebar-item">
+                <a href="#" class="sidebar-items"><i class="ri-home-5-line"></i>Home</a>
+                <a href="#" class="sidebar-items"><i class="ri-compass-3-line"></i>Explore</a>
+                <a href="#" class="sidebar-items"><i class="ri-wireless-charging-line"></i>Shorts</a>
+                <a href="#" class="sidebar-items"><i class="ri-rss-line"></i>Subscription</a>
+                <hr>
+                <a href="#" class="sidebar-items"><i class="ri-link-line"></i>Library</a>
+                <a href="#" class="sidebar-items"><i class="ri-historhy-line"></i>History</a>
+                <a href="#" class="sidebar-items"><i class="ri-vedio-line"></i>Your videos</a>
+                <a href="#" class="sidebar-items"><i class="ri-time-line"></i>Watch later</a>
+                <a href="#" class="sidebar-items"><i class="ri-play-list-2-line"></i>All vedios</a>
+                <a href="#" class="sidebar-items"><i class="ri-arroe-down-sline"></i>Show more</a>
+                <hr>
+                <a href="#" class="sidebar-items"><i class="ri-keyboard-box-line"></i>Gaming</a>
+                <a href="#" class="sidebar-items"><i class="ri-live-line"></i>Live</a>
+                <a href="#" class="sidebar-items"><i class="ri-award-line"></i>Sports</a>
+                <hr>
+                <a href="#" class="sidebar-items"><i class="ri-settings-5-line"></i>Settings</a>
+                <a href="#" class="sidebar-items"><i class="ri-flag-line"></i>Report history</a>
+                <a href="#" class="sidebar-items"><i class="ri-question-line"></i>Help</a>
+                <a href="#" class="sidebar-items"><i class="ri-feedback-line"></i>Send feedback</a>
+
+            
+            </div>
+        </div>
+
+    </div>
